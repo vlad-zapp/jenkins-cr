@@ -1,0 +1,13 @@
+name: jenkins-cr
+version: 0.1.0
+
+authors:
+  - Vlad Grutsenko <i@vlad.gr>
+
+targets:
+  jenkins-cr:
+    main: src/jenkins.cr
+
+crystal: '>= 1.14.0'
+
+license: MIT
