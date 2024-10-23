@@ -18,4 +18,4 @@ cli app for the jenkins written in crystal.
 
 ## Contributors
 
-- [Vlad Grutsenko](https://github.com/vladzapp) - creator and maintainer
+- [Vlad Grutsenko](https://github.com/vlad-zapp) - creator and maintainer
