@@ -1,18 +1,12 @@
-# crystal-test
+# jenkins-cr
 
-TODO: Write a description here
-
-## Installation
-
-TODO: Write installation instructions here
+cli app for the jenkins written in crystal.
 
 ## Usage
 
-TODO: Write usage instructions here
-
-## Development
-
-TODO: Write development instructions here
+1. Clone this repository
+2. Run shards build in the root folder
+3. Run bin/jenkins-cr
 
 ## Contributing
 
@@ -24,4 +18,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [your-name-here](https://github.com/your-github-user) - creator and maintainer
+- [Vlad Grutsenko](https://github.com/vladzapp) - creator and maintainer
